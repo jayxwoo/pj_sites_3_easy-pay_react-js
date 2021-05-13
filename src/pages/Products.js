@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import Hero from "../components/Hero";
 import Pricing from "../components/Pricing";
-import { heroData_chatting, heroData_login, heroData_security, heroData_transaction } from "../data/heroData";
+import { heroData_security } from "../data/heroData";
 
 const Products = () => {
     const scrollToTop = () => {
