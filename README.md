@@ -10,6 +10,7 @@
 - Create a Hero component and data to reproduce different styles of Hero sections.
 - Create a Button component to reproduce different styles and sizes of buttons.
 - Create a Pricing Card component and data to reproduce pricing cards.
+- Create IsMobileContext to share desktop/mobile status across the app.
 
 ## Skills
 - HTML
