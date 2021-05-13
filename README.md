@@ -19,6 +19,6 @@
 - JS
 - React.js
 - Context API (React.js)
-- Lottie Files (animated illustration)
+- Lottie (animated illustration)
 - React Icons
 - Components with separate data files
