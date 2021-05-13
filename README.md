@@ -7,6 +7,7 @@
 - Responsive (mobile  / desktop)
 - Animated illustrations
     → Play animation on hover
+    → Lottie animation files (.json)
 - Create a Hero component and data to reproduce different styles of Hero sections.
 - Create a Button component to reproduce different styles and sizes of buttons.
 - Create a Pricing Card component and data to reproduce pricing cards.
@@ -18,5 +19,6 @@
 - JS
 - React.js
 - Context API (React.js)
+- Lottie Files (animated illustration)
 - React Icons
 - Components with separate data files
