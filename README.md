@@ -4,13 +4,14 @@
 ![screen-recording-01](./screenshots/screen-recording-01.gif)
 
 ## Features
-- Responsive (mobile  / desktop)
+- Responsive (mobile / desktop)
 - Animated illustrations
     → Play animation on hover
     → Lottie animation files (.json)
-- Create a Hero component and data to reproduce different styles of Hero sections.
-- Create a Button component to reproduce different styles and sizes of buttons.
-- Create a Pricing Card component and data to reproduce pricing cards.
+- Create a reusable component with a separate data file
+    → hero
+    → pricing cards
+    → button (no separate data file)
 - Create IsMobileContext to share desktop/mobile status across the app.
 
 ## Skills
